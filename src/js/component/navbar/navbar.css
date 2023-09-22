@@ -1,0 +1,22 @@
+/* Estilos para el componente Navbar */
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    height: 60px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    border-radius: 20px;
+  }
+  
+  .logo {
+    max-width: 30px; /* Ajusta el ancho de la imagen del logo según tus necesidades */
+  }
+  
+  .title {
+    margin-left: 10px; /* Ajusta el margen izquierdo según tus necesidades */
+  }
+  
